@@ -1,4 +1,4 @@
-# RegularizedNonlinearAcceleration
+# Regularized Nonlinear Acceleration
 Project for Optimization methods MIPT course
 
 Библиотека liboptpy взята отсюда: [amkatrutsa](https://github.com/amkatrutsa/liboptpy)
